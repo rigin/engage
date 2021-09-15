@@ -41,6 +41,7 @@
 		<language tag="el-GR">el-GR/el-GR.com_engage.ini</language>
 		<language tag="fr-FR">fr-FR/fr-FR.com_engage.ini</language>
 		<language tag="es-ES">es-ES/es-ES.com_engage.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.com_engage.ini</language>
 	</languages>
 
 	<!-- Media files -->
@@ -92,6 +93,8 @@
 			<language tag="fr-FR">fr-FR/fr-FR.com_engage.sys.ini</language>
 			<language tag="es-ES">es-ES/es-ES.com_engage.ini</language>
 			<language tag="es-ES">es-ES/es-ES.com_engage.sys.ini</language>
+			<language tag="ru-RU">ru-RU/ru-RU.com_engage.ini</language>
+			<language tag="ru-RU">ru-RU/ru-RU.com_engage.sys.ini</language>
 		</languages>
 	</administration>
 
